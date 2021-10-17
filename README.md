@@ -1,5 +1,5 @@
 # Mister N0BODY
-
+![](https://komarev.com/ghpvc/?username=N0BODY2)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N0BODY2&show_icons=true&theme=dracula)
 
 
