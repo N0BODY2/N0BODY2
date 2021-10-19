@@ -5,6 +5,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N0BODY2&show_icons=true&theme=dracula)
 
 
+## Support Discord
+
+Supported Languages CZ/SK/EN/ES
+[NB Scripts Discord](https://discord.gg/CRm3FQ8d4A)
 
 <!--
 **N0BODY2/N0BODY2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
