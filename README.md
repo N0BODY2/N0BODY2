@@ -2,6 +2,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n0body2&label=Profile%20views&color=0e75b6&style=flat" alt="n0body2" /> </p>
 
-- 📫 How to reach me **nobody@nlmt.cc**
-
 Visit [NolimitHost](https://nolimithost.cc/)
